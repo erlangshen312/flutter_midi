@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/ios/.symlinks/plugins/path_provider_ios/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/ios/.symlinks/plugins/path_provider_ios/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/ios/.symlinks/plugins/path_provider_ios/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card/build" />
+      <excludeFolder url="file://$MODULE_DIR$/mi_card/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/ios/.symlinks/plugins/audioplayers/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/ios/.symlinks/plugins/audioplayers/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/ios/.symlinks/plugins/audioplayers/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/magic-8-ball-flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/magic-8-ball-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/magic-8-ball-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee-flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/ios/.symlinks/plugins/audioplayers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/ios/.symlinks/plugins/audioplayers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/ios/.symlinks/plugins/audioplayers/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/news/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/news/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/news/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/ios/.symlinks/plugins/path_provider_ios/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/ios/.symlinks/plugins/path_provider_ios/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone-flutter/ios/.symlinks/plugins/path_provider_ios/example/.dart_tool" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
